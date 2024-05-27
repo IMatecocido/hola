@@ -20,7 +20,7 @@ public class Holamundo : MonoBehaviour
     void Update()
     {
         x = x + 1;
-        Debug.Log(x);
+        
 
     }
 }
